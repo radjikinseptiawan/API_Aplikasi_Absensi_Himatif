@@ -9,7 +9,7 @@ Restful API untuk kebutuhan Absensi Himpunan Mahasiswa Teknik Informatika Univer
 3. Supabase
 
 ## Daftar EntryPoint
-1. 
+1. List Semua Member
 ``
     /api/member
 ``
